@@ -16,6 +16,15 @@
             "500px.com"
         ]
     },
+    
+    {
+        "name": "Trendy Crunch",
+        "url": "http://www.trendycrunch.com/",
+        "difficulty": "easy",
+        "domains": [
+            "trendycrunch.com"
+        ]
+    },
 
     {
         "name": "9GAG",
